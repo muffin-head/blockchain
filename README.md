@@ -1,5 +1,5 @@
 
-```markdown
+
 # Decentralized Payment Application
 
 ## Overview
